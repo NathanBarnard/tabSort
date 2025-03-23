@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "author": "Nathan Barnard",
   "description": "Sort your Chrome tabs with one click.",
-  "homepage_url": "https://github.com/NathanBarnard/tabSort",
+  "homepage_url": "https://codeslayer.com",
   "minimum_chrome_version": "88",
   "permissions": [
     "tabs"
