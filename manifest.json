@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "tabSort (by CodeSlayer)",
   "version": "0.1.0",
-  "author": "Nathan Barnard",
+  "author": "CodeSlayer",
   "description": "Sort your Chrome tabs with one click.",
   "homepage_url": "https://codeslayer.com",
   "minimum_chrome_version": "88",
