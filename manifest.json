@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "tabSort (by CodeSlayer)",
+  "version": "0.0.1",
+  "author": "Nathan Barnard",
+  "description": "Sort your Chrome tabs with one click.",
+  "homepage_url": "https://github.com/NathanBarnard/tabSort",
+  "icons": {
+    "128": "assets/icon128.png"
+  }
+}
