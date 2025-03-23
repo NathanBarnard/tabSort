@@ -5,6 +5,7 @@
   "author": "Nathan Barnard",
   "description": "Sort your Chrome tabs with one click.",
   "homepage_url": "https://github.com/NathanBarnard/tabSort",
+  "minimum_chrome_version": "88",
   "icons": {
     "128": "assets/icon128.png"
   }
